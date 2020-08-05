@@ -1,0 +1,20 @@
+{
+    "name": "tankov/auth",
+    "description": "authorization form",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tankov",
+            "email": "tan.kov@hotmail.com"
+        }
+    ],
+    "scripts": {
+        "phpcs": "phpcs",
+        "phpcbf": "phpcbf"
+    },
+    "require": {
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.5"
+    }
+}
